@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-//ik wordt hoet well gedebuffed door dat niet kan eten.
+//ik wordt hier well gedebuffed door dat niet kan eten.
 
 namespace School
 {
