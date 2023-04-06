@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace School
 {
-    class Schoolklas
+    class Students
     {
         class Student : Person
         {
